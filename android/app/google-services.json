@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97999632419",
+    "project_id": "auth-aula-300922",
+    "storage_bucket": "auth-aula-300922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97999632419:android:2670639447104449a29996",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97999632419-cgbsp5vctb1rh2n7rofljlr105h6mhss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-swyrHeF-aLBoct0kB_Ei05NjUAHJL4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97999632419-cgbsp5vctb1rh2n7rofljlr105h6mhss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
